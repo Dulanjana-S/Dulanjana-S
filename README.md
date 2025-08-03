@@ -1,53 +1,70 @@
-## Hi there 👋
-
-<!--
-**Dulanjana-S/Dulanjana-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👋 Hi, I'm [Dulanjana]!
-
-## 🚀 About Me
-I'm a ai ml from 🇱🇰 Sri Lanka passionate about:
-- 🌐 Web Development
-- 🤖 AI/ML
-- 📱 Mobile Apps
-- 🧠 Building smart systems
-
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
-
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpathfinder&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devpathfinder&theme=tokyonight" width="45%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2FC7FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Pathfinder+%F0%9F%91%8B;Software+Engineer+%7C+Student+%7C+Dreamer;Full-Stack+Dev+%7C+AI+Lover+%7C+Builder" alt="Typing SVG" />
 </p>
 
-## 🧠 Projects & Ideas
-- 🎯 [Skillmap AI](https://github.com/devpathfinder/skillmap-ai) — AI career path recommender.
-- 🛒 POS System for Eco Grocery Mart.
-- 📱 Mobile Lecturer Appointment System.
+---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOURPROFILE)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:your.email@gmail.com)
+## 🧑‍💻 About Me
 
+🎓 I'm a passionate **Computer Science undergraduate** from 🇱🇰 **Sri Lanka**,  
+💡 Eager to **build impactful software**, learn cutting-edge tech, and launch smart solutions for real-world problems.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devpathfinder&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🚀 Building **Skillmap AI** — an AI career path predictor & job explorer platform.
+- 💼 Aspiring to launch my own **tech startup** and contribute to open-source.
+- 🏋️‍♂️ Bodybuilding enthusiast & fashion lover outside the code world.
 
+---
 
+## 🧠 Projects I'm Proud Of
 
+### 🚀 [Skillmap AI](https://github.com/Dulanjana-S/Skillmap-AI)
+> Your AI-powered career navigator — matches your **skills, education, and interests** to future-ready career paths.  
+> Integrated with real-time job data from Adzuna, LinkedIn, and more.
+
+**Built with:** `FastAPI`, `scikit-learn`, `React`, `PostgreSQL`, `Supabase`
+
+### 🛒 Eco Grocery POS System
+> A desktop-based **Point of Sale** system with inventory, sales, and invoice management for retail shops.
+
+**Built with:** `C# WinForms`, `SQL Server`, `ADO.NET`
+
+---
+
+## 🛠 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgresql,flutter,dart,figma,html,css,js,git,github,vscode,vercel,render" />
+</p>
+
+---
+
+## 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devpathfinder&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devpathfinder&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devpathfinder&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:dulanjanarajapaksha2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dulanjanarajapaksha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dev.to/devpathfinder"><img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devpathfinder&style=flat-square&color=blue" alt=""/>
+</p>
+
+<p align="center">
+  🚀 *“Stay hungry, stay foolish.” — Steve Jobs*
+</p>
