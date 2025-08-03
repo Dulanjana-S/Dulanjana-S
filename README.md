@@ -1,79 +1,84 @@
-<!-- GitHub Profile README - Dulanjana-S -->
+<!-- ✨ Ultra-Dark GitHub Profile README for Dulanjana-S -->
 
+<!-- Typing Effect Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=435&lines=Hello!+I'm+Dulanjana+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Builder+%7C+Student;FastAPI+%7C+React+%7C+PostgreSQL+%7C+Career+Tech+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=550&lines=Hey!+I'm+Dulanjana+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Dreamer+%7C+Builder;FastAPI+%2B+React+%2B+PostgreSQL+%7C+CS+Student;Let's+Build+the+Future+Together+%F0%9F%9A%80" />
+</p>
+
+<!-- Hero GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/17/63/99/176399870f62cba75c20e2a92da4a7f9.gif" width="320"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
+## 🧑‍💻 Who Am I?
+
+> 🚀 **Name:** Dulanjana  
+> 🎓 **Role:** Computer Science Undergraduate – Sri Lanka 🇱🇰  
+> 💼 **Focus:** AI, Full-Stack Development, Smart Tools  
+> 🎯 **Goal:** Build revolutionary software & launch impactful startups  
+> 🧠 **Philosophy:** Dream in code. Deliver with vision. Build for tomorrow.  
 
 ---
 
-## 🧑‍💻 About Me
+## 🔥 My Flagship Projects
 
-I'm **Dulanjana**, a passionate 💡 computer science undergraduate from 🇱🇰 **Sri Lanka**.  
-I love building **real-world software** that makes a difference — blending AI, clean UIs, and practical value.
+### ⚡ [Skillmap AI](https://github.com/Dulanjana-S/skillmap-ai)
+> `AI-Powered Career Recommender`  
+> Personalized career paths + live job insights using **AI**, **ML**, and **Adzuna API**
 
-- 🎯 Currently working on: **Skillmap AI** – AI-powered career path prediction system.
-- 🚀 Dreaming of launching a successful **startup** in the tech space.
-- 🧠 Exploring new ideas in AI, job-tech, and productivity tools.
-- 🏋️ Bodybuilder & fashion lover outside tech.
-
----
-
-## 🚀 Featured Projects
-
-### 🔷 [Skillmap AI](https://github.com/Dulanjana-S/skillmap-ai)
-> AI Career Predictor powered by **machine learning** and **real-time job data** from LinkedIn, Adzuna & Glassdoor.
-
-**Tech Stack:** FastAPI, scikit-learn, PostgreSQL, Supabase, React, TailwindCSS
+- 🧠 AI Models (scikit-learn)
+- 🌐 FastAPI + PostgreSQL
+- 🎨 React + Tailwind
+- ☁️ Supabase + Render + Vercel
 
 ---
 
-### 🛍️ Eco Grocery POS System
-> A C# Windows desktop **POS System** for local retail — invoice, cart, sales history, and inventory tracking.
+### 🛒 Eco Grocery POS System
+> Windows Forms POS system for managing **inventory**, **sales**, **invoices**
 
-**Tech Stack:** C# WinForms, SQL Server, ADO.NET
+- 🖥️ Built with C#, WinForms, SQL Server
+- 🧾 Real-time cart updates & invoice generation
 
 ---
 
 ### 📱 Lecturer Appointment App
-> Flutter mobile app for **booking appointments** with university lecturers, chatting, and locating their cabins.
+> Book, chat, and locate university lecturers easily.
 
-**Tech Stack:** Flutter, Firebase, Figma, GitHub
+- 📱 Flutter mobile app
+- ☁️ Firebase backend
+- 🎨 Figma UI Design
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgresql,flutter,dart,js,ts,tailwind,figma,vercel,render,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgresql,flutter,dart,figma,js,ts,tailwind,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 My GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dulanjana-S&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulanjana-S&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dulanjana-S&show_icons=true&theme=radical&hide_title=false&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulanjana-S&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dulanjana-S&theme=react-dark&hide_border=true&radius=12" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dulanjana-S&theme=github-compact&hide_border=true&radius=12" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect & Build Together
 
 <p align="center">
-  <a href="mailto:dulanjana.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dev.to/Dulanjana-S"><img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="mailto:dulanjana.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Dulanjana.dev%40gmail.com-2b3137?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Dulanjana-S"><img src="https://img.shields.io/badge/GitHub-Dulanjana--S-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -82,4 +87,6 @@ I love building **real-world software** that makes a difference — blending AI,
   <img src="https://komarev.com/ghpvc/?username=Dulanjana-S&style=flat-square&color=29BCF2" />
 </p>
 
-<p align="center"><b>“Code like an artist, dream like a founder.”</b></p>
+<p align="center">
+  🖤 *“Stay curious. Build fearlessly. Impact endlessly.”*
+</p>
