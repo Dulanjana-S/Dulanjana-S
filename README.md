@@ -28,7 +28,7 @@
 > `AI-Powered Career Recommender`  
 > Personalized career paths + live job insights using **AI**, **ML**, and **Adzuna API**
 
-- 🧠 AI Models (scikit-learn)
+- 🧠 AI Models (pythoon + scikit-learn)
 - 🌐 FastAPI + PostgreSQL
 - 🎨 React + Tailwind
 
