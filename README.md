@@ -56,13 +56,13 @@
 <p align="center">
   <a href="mailto:dulanjanarajapaksha2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dulanjanarajapaksha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dev.to/devpathfinder"><img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://dev.to/Dulanjana-S"><img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devpathfinder&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Dulanjana-S&style=flat-square&color=blue" alt=""/>
 </p>
 
 <p align="center">
