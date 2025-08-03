@@ -22,7 +22,7 @@
 
 ---
 
-## 🔥 My Flagship Projects
+## 🔥 My Projects
 
 ### ⚡ [Skillmap AI](https://github.com/Dulanjana-S/skillmap-ai)
 > `AI-Powered Career Recommender`  
@@ -42,7 +42,7 @@
 
 ---
 
-## 🚧 Tech Stack
+## 🛠 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgresql,flutter,dart,figma,js,ts,tailwind,git,github,vscode&theme=dark" />
@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 My GitHub Pulse
+## 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dulanjana-S&show_icons=true&theme=radical&hide_title=false&count_private=true&hide_border=true" width="48%" />
