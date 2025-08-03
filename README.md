@@ -31,7 +31,6 @@
 - 🧠 AI Models (scikit-learn)
 - 🌐 FastAPI + PostgreSQL
 - 🎨 React + Tailwind
-- ☁️ Supabase + Render + Vercel
 
 ---
 
@@ -40,15 +39,6 @@
 
 - 🖥️ Built with C#, WinForms, SQL Server
 - 🧾 Real-time cart updates & invoice generation
-
----
-
-### 📱 Lecturer Appointment App
-> Book, chat, and locate university lecturers easily.
-
-- 📱 Flutter mobile app
-- ☁️ Firebase backend
-- 🎨 Figma UI Design
 
 ---
 
@@ -76,8 +66,8 @@
 ## 🌐 Let's Connect & Build Together
 
 <p align="center">
-  <a href="mailto:dulanjana.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Dulanjana.dev%40gmail.com-2b3137?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dulanjanarajapaksha@gmail.com"><img src="https://img.shields.io/badge/Email-Dulanjana.dev%40gmail.com-2b3137?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href="https://www.linkedin.com/in/dulanjanarajapaksha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Dulanjana-S"><img src="https://img.shields.io/badge/GitHub-Dulanjana--S-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
