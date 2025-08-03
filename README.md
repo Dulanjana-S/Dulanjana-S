@@ -2,7 +2,7 @@
 
 <!-- Typing Effect Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=550&lines=Hey!+I'm+Dulanjana+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Dreamer+%7C+Builder;ComputerScience+undergraduate;Let's+Build+the+Future+Together+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=00F0FF&center=true&vCenter=true&width=550&lines=Hey!+I'm+Dulanjana+%F0%9F%91%8B;Full-Stack+Developer+%7C+AI+Dreamer+%7C+Builder;Computer+Science+Undergraduate;Let's+Build+the+Future+Together+%F0%9F%9A%80" />
 </p>
 
 <!-- Hero GIF -->
