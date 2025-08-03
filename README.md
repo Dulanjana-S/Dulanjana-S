@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2FC7FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Pathfinder+%F0%9F%91%8B;Software+Engineer+%7C+Student+%7C+Dreamer;Full-Stack+Dev+%7C+AI+Lover+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2FC7FF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Dulanjana-S+%F0%9F%91%8B;Software+Engineer+%7C+Student+%7C+Dreamer;Full-Stack+Dev+%7C+AI+Lover+%7C+Builder" alt="Typing SVG" />
 </p>
 
 ---
@@ -41,12 +41,12 @@
 ## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpathfinder&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devpathfinder&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dulanjana-S&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dulanjana-Sr&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devpathfinder&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dulanjana-S&theme=react-dark&hide_border=true" />
 </p>
 
 ---
