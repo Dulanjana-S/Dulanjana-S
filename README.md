@@ -9,37 +9,6 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/17/63/99/176399870f62cba75c20e2a92da4a7f9.gif" width="320"/>
 </p>
-
----
-
-## 🧑‍💻 Who Am I?
-
-> 🚀 **Name:** Dulanjana  
-> 🎓 **Role:** Computer Science Undergraduate – Sri Lanka 🇱🇰  
-> 💼 **Focus:** AI, Full-Stack Development, Smart Tools  
-> 🎯 **Goal:** Build revolutionary software & launch impactful startups  
-> 🧠 **Philosophy:** Dream in code. Deliver with vision. Build for tomorrow.  
-
----
-
-## 🔥 My Projects
-
-### ⚡ [Skillmap AI](https://github.com/Dulanjana-S/skillmap-ai)
-> `AI-Powered Career Recommender`  
-> Personalized career paths + live job insights using **AI**, **ML**, and **Adzuna API**
-
-- 🧠 AI Models (python + scikit-learn)
-- 🌐 FastAPI + PostgreSQL
-- 🎨 React + Tailwind
-
----
-
-### 🛒 Eco Grocery POS System
-> Windows Forms POS system for managing **inventory**, **sales**, **invoices**
-
-- 🖥️ Built with C#, WinForms, SQL Server
-- 🧾 Real-time cart updates & invoice generation
-
 ---
 
 ## 🛠 Tech Stack & Tools
